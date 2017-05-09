@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+{
+    "url": "https://de1.androidfilehost.com/dl/CKlLguGJaXDBQ243Px6IBw/1494566450/817550096634764464/lineage-13.0-20170424-UNOFFICIAL-sprout4.zip",
+    "timestamp": "1452363548",
+    "api_level": "22",
+    "md5sum": "907286e8a058cdce39dff19ae8626594",
+    "filename": "cm-12.1-20160109-UNOFFICIAL-IQ4511.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://raw.githubusercontent.com/Pablito2020/API_CMUpdater/los-13.0/CHANGELOG-BETA",
+    "incremental": "11dda10729"
+    },
+  ],
+ "error": null
+}
