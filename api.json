@@ -7,9 +7,9 @@
     "timestamp": "1452363548",
     "api_level": "22",
     "md5sum": "907286e8a058cdce39dff19ae8626594",
-    "filename": "cm-12.1-20160109-UNOFFICIAL-IQ4511.zip",
+    "filename": "cm-12.1-20170518-UNOFFICIAL-IQ4511.zip",
     "channel": "RELEASE",
-    "changes": "https://raw.githubusercontent.com/hyperion70/API_CMUpdater/master/CHANGELOG-04",
+    "changes": "",
     "incremental": "11dda10729"
     },
   ],
