@@ -1,16 +1,15 @@
-
 {
  "id": null,
  "result": [
-{
-    "url": "https://www.dropbox.com/s/k7kuvuy5nyndnkr/cm-12.1-20160109-UNOFFICIAL-IQ4511.zip?dl=1",
-    "timestamp": "1452363548",
+    {
+    "url": "https://forum.xda-developers.com/devdb/project/dl/?id=23896&task=get",
+    "timestamp": "1490507750",
     "api_level": "23",
-    "md5sum": "907286e8a058cdce39dff19ae8626594",
-    "filename": "cm-12.1-20170518-UNOFFICIAL-IQ4511.zip",
-    "channel": "RELEASE",
+    "md5sum": "43e54761e15588c5a76c2da3ec4dca94",
+    "filename": "cm-13.0-ZNH5Y-20170325-STABLE-Sultan-bacon.zip",
+    "channel": "NIGHTLY",
     "changes": "",
-    "incremental": "11dda10729"
+    "incremental": ""
     },
   ],
  "error": null
