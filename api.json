@@ -2,11 +2,11 @@
  "id": null,
  "result": [
     {
-    "url": "https://forum.xda-developers.com/devdb/project/dl/?id=23896&task=get",
-    "timestamp": "1490507750",
+    "url": "https://qc3.androidfilehost.com/dl/ERfZmc7Vi5iuicSKWA3WVA/1494854450/745425885120730804/lineage-13.0-20170510-UNOFFICIAL-krillin.zip",
+    "timestamp": "1494623785",
     "api_level": "23",
-    "md5sum": "43e54761e15588c5a76c2da3ec4dca94",
-    "filename": "lineage-13.0-20170510-NIGHTLY-krillin",
+    "md5sum": "b93bb79f604633f9366265c5b0cc388d",
+    "filename": "lineage-13.0-20170512-UNOFFICIAL-krillin.zip",
     "channel": "NIGHTLY",
     "changes": "",
     "incremental": ""
